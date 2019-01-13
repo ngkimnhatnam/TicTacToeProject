@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="My Preference Category">
+              <ListPreference
+                android:key="key"
+                android:entries="@array/color_entry"
+                android:entryValues="@array/color_number"
+                android:title="Background Color"
+                android:summary="Select background color from the list"
+                android:defaultValue="0"/>
+
+
+                <ListPreference
+                    android:key = "icon"
+                    android:entries="@array/icon_entry"
+                    android:entryValues="@array/icon_number"
+                    android:title="Player 1 token selection"
+                    android:summary="Select game token from the list"
+                    android:defaultValue="0"
+                    />
+                <ListPreference
+                    android:key = "icon_2"
+                    android:entries="@array/icon_2_entry"
+                    android:entryValues="@array/icon_2_number"
+                    android:title="Player 2 token selection"
+                    android:summary="Select game token from the list"
+                    android:defaultValue="0"
+                    />
+
+                <ListPreference
+                    android:key="button_color"
+                    android:title="Button color selection"
+                    android:summary="Select button color from the list"
+                    android:entries="@array/button_color_entry"
+                    android:entryValues="@array/button_numer"
+                    android:defaultValue="0"
+                    />
+                <ListPreference
+                    android:key="sound_control"
+                    android:title="Sound control"
+                    android:summary="Turn sound on/off"
+                    android:entries="@array/sound_entry"
+                    android:entryValues="@array/sound_number"
+                    android:defaultValue="0"
+                    />
+    </PreferenceCategory>
+</PreferenceScreen>

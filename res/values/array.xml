@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_entry">
+        <item>Black</item>
+        <item>White</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Yellow</item>
+    </string-array>
+
+    <string-array name="color_number">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="icon_entry">
+        <item>Blue chip</item>
+        <item>White diamond</item>
+        <item>Black pirate flag</item>
+        <item>Yellow treasure chest</item>
+    </string-array>
+
+    <string-array name="icon_number">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="icon_2_entry">
+        <item>Red cross</item>
+        <item>Angry Bird</item>
+        <item>Moominpeiko</item>
+        <item>Simpson</item>
+    </string-array>
+
+    <string-array name="icon_2_number">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="button_color_entry">
+        <item>Deep sea blue</item>
+        <item>Dreamy green</item>
+        <item>Pearl white</item>
+        <item>Creamy yellow</item>
+        <item>Rose pink</item>
+
+    </string-array>
+
+    <string-array name="button_numer">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="sound_entry">
+        <item>ON</item>
+        <item>OFF</item>
+    </string-array>
+
+    <string-array name="sound_number">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+
+
+
+
+</resources>
